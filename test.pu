@@ -1,5 +1,5 @@
 @startuml
-title シーケンス
-アリス -> ボブ: リクエスト
+title test
+アリス -> Y: リクエスト
 ボブ --> アリス: レスポンス
 @enduml
