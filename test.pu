@@ -1,5 +1,4 @@
 @startuml
 title test
-アリス -> Y: リクエスト
-ボブ --> アリス: レスポンス
+Hello <|-- World
 @enduml
